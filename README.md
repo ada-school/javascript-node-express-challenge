@@ -30,7 +30,7 @@ A bus company wants to start using technology and allow their users to book onli
 * Correct way on request to persistance layer.
 
 ## Desired technology stack:
-* JavaScript 
+* JavaScript or TypeScript
 * Express
 * MongoDB
 
