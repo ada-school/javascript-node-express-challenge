@@ -22,14 +22,14 @@ A bus company wants to start using technology and allow their users to book onli
 
 *Note:* Use Express to create the server to the REST API and use Mongodb Atlas clusters to the persistance layer.  
 
-# Expected Quality Attributes:
+## Expected Quality Attributes:
 * Using coding best practices.
 * Correct usage of JSON.
 * Clear usage of Express's methods.
 * Connect with a persistance layer.
 * Correct way on request to persistance layer.
 
-# Desired technology stack:
+## Desired technology stack:
 * JavaScript 
 * Express
 * MongoDB
