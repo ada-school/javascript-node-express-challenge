@@ -1,4 +1,4 @@
-<img align="right" width="100" height="50" src="https://ada-school.org/wp-content/uploads/2022/02/ada-school-logo.svg">
+<img align="right" width="200" height="100" src="https://ada-school.org/wp-content/uploads/2022/02/ada-school-logo.svg">
 
 
 ## JavaScript Node and Express Mentor 👩‍💻 👨‍💻 Code Challenge
