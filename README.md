@@ -20,7 +20,7 @@ A bus company wants to start using technology and allow their users to book onli
 * Find a booking using its ID.
 * Delete an existing booking.
 
-*Note:* Use Express to create the server to the REST API and use Mongodb Atlas clusters to the persistence layer.  
+*Note:* Use Express to create the server to the REST API and use Mongodb Atlas clusters to the persistance layer.  
 
 # Expected Quality Attributes:
 * Using coding best practices.
