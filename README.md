@@ -1,7 +1,7 @@
 <img align="right" width="200" height="100" src="https://ada-school.org/wp-content/uploads/2022/02/ada-school-logo.svg">
 
 
-## JavaScript/TypeScript Node and Express Mentor 👩‍💻 👨‍💻 Code Challenge
+## Node and Express Mentor 👩🏻‍💻 👨🏾‍💻 👨🏻‍💻 👩🏽‍💻 Code Challenge
 
 Thank you 🙏 for taking the time to implement this coding challenge to build a fast microservice REST API using *JavaScript* and *Express*.
 
@@ -32,6 +32,7 @@ A bus company wants to start using technology and allow their users to book onli
 ## Desired technology stack:
 * JavaScript or TypeScript
 * Express
+* Node
 * MongoDB
 
 ## Submit your solution
